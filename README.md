@@ -1,4 +1,4 @@
-# ⚙️ KAI:
+# ⚙️ KIH:
 Building and experimenting at the intersection of IT, cybersecurity, and engineering
 
 
